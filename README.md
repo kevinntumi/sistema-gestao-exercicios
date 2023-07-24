@@ -1,1 +1,2 @@
-# sistema-gestao-exercicios
+# Sistema Gestão de Exercícios
+
