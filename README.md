@@ -9,7 +9,7 @@ Por este motivo, decidi desenvolver um sistema que me ajudasse. Utilizando o par
 
 # Esquema da Base de Dados
 
-
+![kie](https://github.com/kevinntumi/sistema-gestao-exercicios/assets/34671981/10c331ad-45a5-4814-b58f-3064a40bcf3b)
 
 # Interface do Usuário
 
